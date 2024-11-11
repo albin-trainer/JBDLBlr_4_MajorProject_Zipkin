@@ -1,0 +1,5 @@
+spring.application.name=cloud-config
+server.port=8181
+spring.cloud.config.server.git.username=albinxavier@gmail.com
+spring.cloud.config.server.git.password=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
+spring.cloud.config.server.git.uri=https://github.com/albin-trainer/config-server
